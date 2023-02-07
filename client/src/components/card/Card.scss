@@ -1,0 +1,11 @@
+@import 'index';
+
+.card {
+  padding: su(6);
+  background-color: $gray-light;
+  display: inline-block;
+  max-width: rem(305px);
+  &__heading {
+    margin-bottom: su(1);
+  }
+}
