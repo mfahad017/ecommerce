@@ -18,9 +18,10 @@ A simple e-commerce web app built on microservices
 
 - Typescript
 - NestJS
+- Redis
+
+### Devops
+
 - kubernetes
 - Docker
 - Skaffold
-- Redis
-
-### Others
